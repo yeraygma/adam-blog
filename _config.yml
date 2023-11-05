@@ -1,5 +1,5 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: My personal blog - Yeray González-Marrero
+email: yeraygma@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -11,14 +11,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author settings
 author: Adam Neilson # add your name
 author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+about-author: Mi nombre es Yeray González Marrero. Soy ecólogo marino dedicado al estudio de la vida en las cuevas marinas
 
 # Contact links
 email: # Add your Email address
 phone: # Add your Phone number
 website: # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
+github: yeraygma # Add your Github handle
 twitter: '@artemsheludko_' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
