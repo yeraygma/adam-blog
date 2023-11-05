@@ -7,6 +7,6 @@ img: post-7.jpg # Add image post (optional)
 tags: [Blog, Biodiversidad]
 author: Yeray González Marrero # Add name author (optional)
 ---
-La *biodiversidad* de las cuevas marinas de **Canarias** es, a día de hoy, todavía una incógnita en el conocimiento de la vida submarina en este lado del Atlántico. Si bien, las esponjas, briozoos, serpúlidos y cnidarios son los principales habitantes de estas zonas de penunmbra y oscuridad, también  moradores las zonas exteriores las visitan de cuando en cuando.  
+La biodiversidad de las cuevas marinas de **Canarias** es, a día de hoy, todavía una incógnita en el conocimiento de la vida submarina en este lado del Atlántico. Si bien, las esponjas, briozoos, serpúlidos y cnidarios son los principales habitantes de estas zonas de penunmbra y oscuridad, también  moradores las zonas exteriores las visitan de cuando en cuando.  
 
-Blablabalbalbl...
+La sepia, *Sepia officinalis*, raramente se adentra en las zonas iluminadas de la entrada de las cuevas. En la foto se ve como ésta se camufla con el entorno arenosos hasta casi desaparecer. 
